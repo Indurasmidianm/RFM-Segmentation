@@ -136,7 +136,7 @@ The two frameworks are combined to create **detailed customer personality profil
 
 This project was completed as a group assignment at Purwadhika Digital Technology School.
 
-**Indira Faisa Afgani**
+**Indurasmi Dian Mulyastuti**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indurasmi-dian-m-784476357/)
 
 ---
